@@ -1,5 +1,7 @@
 #include "rtx_os.h"
 #include "cmsis_os2.h"
+#include "sys.h"
+#include "common.h"
 
 osThreadId_t threadID_Start_Thread = NULL; /*线程ID*/
 
