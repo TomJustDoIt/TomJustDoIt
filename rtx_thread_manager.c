@@ -77,7 +77,7 @@ int main(void)
  
  
 
-  #define FLAGS_MSK1 0x00000001ul
+  #define FLAGS_MSK1 0x00000001u
  
 
    
